@@ -1,6 +1,7 @@
-# Programs used in the course Bitcoin, cyrptocurrencies and the blockchain, taken as a part of PESU IO Slot 8, hosted at pesx.pes.edu
+# Bitcoin, cryptocurrencies and the blockchain course PESUIO.
+#### Programs used in the course Bitcoin, cyrptocurrencies and the blockchain, taken as a part of PESU IO Slot 8, hosted at pesx.pes.edu
 
-## To use to code given here as the base of your project, follow the instructions below to setup your environment
+## NOTE: To use to code given here as the base of your project, follow the instructions below to setup your environment
 
 # 1. Installation
 * Install python3 version 3.6+
