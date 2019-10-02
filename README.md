@@ -2,7 +2,7 @@
 
 ## To use to code given here as the base of your project, follow the instructions below to setup your environment
 
-1. Installation
+1. # Installation
 * Install python3 version 3.6+
 * Create a virtual environment using venv
 * Activate the virtual environment
@@ -11,10 +11,10 @@
 * For solutions to errors while installing pycryptodome, read the documentation of pycryptodome
 * Start writing your programs!
 
-2. Usage
+2. # Usage
 Usage of the material is allowed as given in the license and the licenses of the material used.
 
-3. Course specific instructions
+3. # Course specific instructions
 * To use this repository over the course, clone it using
 ``` 
 git clone https://github.com/rehanvipin/iocoursebtc 
