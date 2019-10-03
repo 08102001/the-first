@@ -1,0 +1,48 @@
+{
+  "ver": 1,
+  "inputs": [
+    {
+      "sequence": 4294967295,
+      "witness": "",
+      "prev_out": {
+        "spent": true,
+        "spending_outpoints": [
+          {
+            "tx_index": 496578584,
+            "n": 0
+          }
+        ],
+        "tx_index": 495986673,
+        "type": 0,
+        "addr": "1BQcAGc9QUVbdNnXQiVmZbNh8gntxVyimH",
+        "value": 276375,
+        "n": 0,
+        "script": "76a91472282cc5b1040dd5a8adc512ec46b49c45a75e6a88ac"
+      },
+      "script": "483045022100d18ac06ffd149d8e47a9a9980b75e96485bca4cbf330c5cc3549dac6fd5c749102203f9b1524fb1855310f6260b40684c823cb9beb3bd91a470f30229a0be243e6b50121029e4012e7d4400f2e73122ecc6d8583fe47a84f3ca1813d7262a83f84d8d31ebf"
+    }
+  ],
+  "weight": 768,
+  "block_height": 597718,
+  "relayed_by": "127.0.0.1",
+  "out": [
+    {
+      "spent": false,
+      "tx_index": 496578584,
+      "type": 0,
+      "addr": "1D2sa83mu5ey98LEXrszRS3YNC2NZhy1gC",
+      "value": 253663,
+      "n": 0,
+      "script": "76a91483fc23d4969bcde9b9f9f89488da0d04e40a717288ac"
+    }
+  ],
+  "lock_time": 0,
+  "size": 192,
+  "double_spend": false,
+  "block_index": 1789607,
+  "time": 1570126426,
+  "tx_index": 496578584,
+  "vin_sz": 1,
+  "hash": "53898cd33a8149b5d0949e212d758d8b7b07fc400400df3b6d99e1a4bef8e6f3",
+  "vout_sz": 1
+}

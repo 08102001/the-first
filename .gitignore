@@ -1,1 +1,5 @@
 quarantine/
+*.png
+*.PNG
+__pycache__/
+images/
